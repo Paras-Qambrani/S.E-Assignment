@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author Alina
+ *
+ */
+module SampleProject {
+}
